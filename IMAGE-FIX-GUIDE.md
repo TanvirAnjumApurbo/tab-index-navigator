@@ -14,8 +14,8 @@ I've updated your README.md to use GitHub raw URLs for all images:
 
 ### **After (Works on Marketplace):**
 ```markdown
-![Demo](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_gif.gif)
-![Quick Navigation](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_ss1.png)
+![Demo](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_gif.gif)
+![Quick Navigation](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_ss1.png)
 ```
 
 ## 🚀 **Steps to Fix Your Marketplace Listing**
@@ -32,7 +32,7 @@ git push origin main
 - Make sure the `media/` folder with all images is uploaded
 - Test one image URL in browser:
   ```
-  https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_gif.gif
+  https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_gif.gif
   ```
 
 ### 3. **Update Marketplace Extension**
