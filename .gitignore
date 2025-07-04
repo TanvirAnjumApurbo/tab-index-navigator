@@ -6,9 +6,9 @@ dist/
 # Dependencies
 node_modules/
 
-# VS Code test downloads
+# Testing
 .vscode-test/
-.vscode-test.*
+.vscode-test.mjs
 
 # Logs
 npm-debug.log*
@@ -38,12 +38,6 @@ jspm_packages/
 # Optional eslint cache
 .eslintcache
 
-# Microbundle cache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
-
 # Optional REPL history
 .node_repl_history
 
@@ -57,18 +51,20 @@ jspm_packages/
 .env
 .env.test
 
-# Stores VSCode versions used for testing VSCode extensions
-.vscode-test
-
-# MacOS
-.DS_Store
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
 # IDE files
-.idea/
 .vscode/settings.json
 .vscode/launch.json
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
