@@ -1,10 +1,10 @@
 # 🗂️ Tab Index Navigator
 
-![Tab Index Navigator](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_icon.png)
+![Tab Index Navigator](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_icon.png)
 
 **Tab Index Navigator** is a powerful VS Code extension that boosts your productivity by enabling fast and intuitive tab switching. Whether you're juggling multiple files or diving into deep workflows, this extension keeps your navigation smooth and efficient with features like keyboard shortcuts, interactive quick pick, tab history, and a status bar overlay.
 
-![Demo](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_gif.gif)
+![Demo](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_gif.gif)
 
 ---
 
@@ -15,7 +15,7 @@ Jump to any of the first 10 open tabs instantly:
 - Use `Ctrl+1` through `Ctrl+9` (or `Cmd+1` through `Cmd+9` on macOS)
 - Use `Ctrl+0` (`Cmd+0`) for tab 10
 
-📷 ![Quick Navigation](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_ss1.png)
+📷 ![Quick Navigation](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_ss1.png)
 
 ### 📊 Live Tab Status in Status Bar
 - Real-time position display like **"3/7"** (tab 3 of 7)
@@ -23,7 +23,7 @@ Jump to any of the first 10 open tabs instantly:
 - Click to open quick tab list
 - Toggle mode between current tab position or total count
 
-📷 ![Status Bar](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_ss4.png)
+📷 ![Status Bar](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_ss4.png)
 
 ### 🧭 Interactive Tab List (Quick Pick)
 - Displays all open tabs with index and tab type (e.g. `text`, `diff`, `notebook`, `webview`)
@@ -35,14 +35,14 @@ Jump to any of the first 10 open tabs instantly:
 - Clearly marks pinned tabs in quick pick list
 - Includes dedicated shortcut: `Ctrl+Shift+I`
 
-📷 ![Pinned Tabs](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_ss3.png)
+📷 ![Pinned Tabs](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_ss3.png)
 
 ### 🕘 Tab History Navigation
 - Tracks your recently visited tabs
 - Return to previous tabs with `Ctrl+Alt+Left`
 - Fully configurable history size
 
-📷 ![Tab History](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/main/media/tab_index_ss2.png)
+📷 ![Tab History](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_ss2.png)
 
 ### 🧩 Split Editor & Group Support
 - Displays tab group IDs (Group 1, Group 2, etc.)
@@ -157,6 +157,11 @@ MIT License — see `LICENSE` file for details
 ---
 
 ## 📝 Changelog
+
+### v0.0.2
+- 🔧 Fixed image display issues on VS Code Marketplace
+- 📷 Updated README with proper GitHub raw URLs
+- 🛠️ Enhanced .gitignore with comprehensive exclusions
 
 ### v0.0.1
 - 🚀 Initial release
