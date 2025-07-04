@@ -1,7 +1,5 @@
 # 🗂️ Tab Index Navigator
 
-![Tab Index Navigator](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_icon.png)
-
 **Tab Index Navigator** is a powerful VS Code extension that boosts your productivity by enabling fast and intuitive tab switching. Whether you're juggling multiple files or diving into deep workflows, this extension keeps your navigation smooth and efficient with features like keyboard shortcuts, interactive quick pick, tab history, and a status bar overlay.
 
 ![Demo](https://raw.githubusercontent.com/TanvirAnjumApurbo/tab-index-navigator/master/media/tab_index_gif.gif)
@@ -157,6 +155,11 @@ MIT License — see `LICENSE` file for details
 ---
 
 ## 📝 Changelog
+
+### v0.0.2
+- 📄 Updated README documentation
+- 🔧 Fixed duplicate icon display in marketplace
+- 🎨 Improved documentation formatting
 
 ### v0.0.1
 - 🚀 Initial release
