@@ -2,7 +2,7 @@
   "name": "tab-index-navigator",
   "displayName": "Tab Index Navigator",
   "description": "Quickly jump to any open tab in VS Code by its index using keyboard shortcuts, with visual tab index overlay in status bar and advanced tab management features.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "tanvir-apurbo",
   "icon": "media/tab_index_icon.png",
   "keywords": [

@@ -156,10 +156,13 @@ MIT License — see `LICENSE` file for details
 
 ## 📝 Changelog
 
-### v0.0.2
+### v0.0.3
 - 📄 Updated README documentation
 - 🔧 Fixed duplicate icon display in marketplace
 - 🎨 Improved documentation formatting
+
+### v0.0.2
+- 🚀 Previous release
 
 ### v0.0.1
 - 🚀 Initial release
